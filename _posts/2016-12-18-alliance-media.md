@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Alliance Media uses Northland's top creative talents to build a consistent
   look for your image and brand, putting you 'top of mind'.
-dateModified: '2016-12-18T06:01:26.848Z'
-datePublished: '2016-12-18T06:01:27.591Z'
+dateModified: '2016-12-18T06:01:30.932Z'
+datePublished: '2016-12-18T06:01:31.308Z'
 title: Alliance Media
 author: []
 publisher:
@@ -13,7 +13,7 @@ publisher:
 via: {}
 isBasedOnUrl: 'http://alliancemedia.co.nz/'
 starred: false
-datePublishedOriginal: '2016-12-18T06:01:27.591Z'
+datePublishedOriginal: '2016-12-18T06:01:29.914Z'
 sourcePath: _posts/2016-12-18-alliance-media.md
 _type: MediaObject
 
