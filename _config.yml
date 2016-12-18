@@ -28,3 +28,6 @@ purpose:
   - type: contact
     url: 'mailto:touch@hexacubist.com'
     label: Contact me
+  - type: external
+    url: 'http://github.com/HexaCubist'
+    label: Github
