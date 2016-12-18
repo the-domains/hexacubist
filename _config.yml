@@ -19,6 +19,9 @@ navigation:
   - name: Argolia Events
     url: 'http://event.argolia.com/'
     type: external
+  - name: Github
+    url: 'https://github.com/HexaCubist'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/599f199e-7118-4066-8db2-5cd199fa87bf.png
 title: HexaCubist
