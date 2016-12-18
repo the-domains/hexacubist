@@ -26,7 +26,7 @@ content: []
 description: My personal portfolio and portal
 purpose:
   - type: contact
-    url: 'mailto:touch@hexacubist.com'
+    url: 'mailto:me@hexacubist.com'
     label: Contact me
   - type: external
     url: 'http://github.com/HexaCubist'
