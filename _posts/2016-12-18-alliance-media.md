@@ -4,16 +4,16 @@ description: >-
   Back in May 2016 I was tasked with redesigning and building the new website
   for the local company Alliance Media. The Brief was to create a website which
   was both professional as well as open and vibrant.
-dateModified: '2016-12-18T06:36:09.273Z'
-datePublished: '2016-12-18T06:36:09.903Z'
+dateModified: '2016-12-18T06:37:19.676Z'
+datePublished: '2016-12-18T06:37:20.292Z'
 title: Alliance Media
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2016-12-18-alliance-media.md
 starred: false
 datePublishedOriginal: '2016-12-18T06:36:09.903Z'
-sourcePath: _posts/2016-12-18-alliance-media.md
 url: alliance-media/index.html
 _type: Article
 
