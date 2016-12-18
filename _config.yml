@@ -1,9 +1,10 @@
-typography_spectrum: 0.49304726977823393
+layout_spectrum: 0.40968583184294405
+typography_spectrum: 0.1319022049336224
 color:
-  brandStrength: 0.2618257671404667
-  lightness: 0.8474451639671985
-  saturation: 0.9421231174261521
-  rhythmicContrast: 0.45665840280869296
+  brandStrength: 0.713667476918954
+  lightness: 0.29721092711175134
+  saturation: 0.9100850587350197
+  rhythmicContrast: 0.17701743142338158
   brandColors:
     - '#004358'
     - '#1F8A70'
@@ -11,7 +12,6 @@ color:
     - '#FFE11A'
     - '#FD7400'
 github: true
-layout_spectrum: 0.952662491599688
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fc16e82-ab39-493f-9369-4eec50b25452.png
 name: HexaCubist
