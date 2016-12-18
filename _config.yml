@@ -1,4 +1,3 @@
-layout_spectrum: 0.3338907269158834
 typography_spectrum: 0.14659964437882353
 color:
   brandStrength: 0.59152274463003
@@ -12,6 +11,7 @@ color:
     - '#FFE11A'
     - '#FD7400'
 github: true
+layout_spectrum: 0.3338907269158834
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fc16e82-ab39-493f-9369-4eec50b25452.png
 name: HexaCubist
