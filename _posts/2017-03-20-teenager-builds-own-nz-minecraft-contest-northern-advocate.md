@@ -21,14 +21,14 @@ isBasedOnUrl: >-
 title: >-
   Teenager builds own NZ Minecraft contest - Northern Advocate - Northern
   Advocate News
-datePublished: '2017-03-20T08:09:05.659Z'
-dateModified: '2017-03-20T07:52:28.648Z'
-datePublishedOriginal: '2017-03-20T08:09:05.659Z'
+datePublished: '2017-03-20T08:18:04.389Z'
+dateModified: '2017-03-20T08:18:03.864Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-03-20-teenager-builds-own-nz-minecraft-contest-northern-advocate.md
+starred: false
+datePublishedOriginal: '2017-03-20T08:09:05.659Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
