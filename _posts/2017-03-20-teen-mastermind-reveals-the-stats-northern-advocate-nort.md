@@ -19,13 +19,13 @@ app_links: []
 isBasedOnUrl: >-
   http://www.nzherald.co.nz/northern-advocate/news/article.cfm?c_id=1503450&objectid=11507885
 title: Teen mastermind reveals the stats - Northern Advocate - Northern Advocate News
-datePublished: '2017-03-20T07:52:57.266Z'
-dateModified: '2017-03-20T07:52:36.377Z'
-datePublishedOriginal: '2017-03-20T07:52:57.266Z'
+datePublished: '2017-03-20T08:18:04.377Z'
+dateModified: '2017-03-20T08:18:03.864Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-03-20-teen-mastermind-reveals-the-stats-northern-advocate-nort.md
+starred: false
+datePublishedOriginal: '2017-03-20T07:52:57.266Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
