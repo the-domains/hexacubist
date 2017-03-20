@@ -1,10 +1,10 @@
-layout_spectrum: 0.32806222991824224
-typography_spectrum: 0.13233711153361025
+layout_spectrum: 0.06304810901974688
+typography_spectrum: 0.13914745730126626
 color:
-  brandStrength: 0.8839445095036252
-  lightness: 0.21903499165854168
-  saturation: 0.7811183380236905
-  rhythmicContrast: 0.6258362099392764
+  brandStrength: 0.7224355193738373
+  lightness: 0.29472163561833004
+  saturation: 0.5703901400446596
+  rhythmicContrast: 0.45694563536729554
   brandColors:
     - '#96CA2D'
     - '#B5E655'
@@ -36,7 +36,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
