@@ -31,14 +31,14 @@ app_links: []
 isBasedOnUrl: >-
   http://www.stuff.co.nz/auckland/local-news/northland/86847415/whangarei-boys-high-school-to-have-interactive-wwi-memorial
 title: Whangarei Boys' High School to have interactive WWI memorial
-datePublished: '2017-03-20T07:53:04.844Z'
-dateModified: '2017-03-20T07:52:47.571Z'
-datePublishedOriginal: '2017-03-20T07:53:04.844Z'
+datePublished: '2017-03-20T08:18:04.262Z'
+dateModified: '2017-03-20T08:18:03.864Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-03-20-whangarei-boys-high-school-to-have-interactive-wwi-memorial.md
+starred: false
+datePublishedOriginal: '2017-03-20T07:53:04.844Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
