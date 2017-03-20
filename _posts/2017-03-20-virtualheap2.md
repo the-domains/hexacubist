@@ -53,13 +53,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=W25fzsJn5D8'
 title: VirtualHeap2
-datePublished: '2017-03-20T08:03:11.645Z'
-dateModified: '2017-03-20T08:02:19.744Z'
-datePublishedOriginal: '2017-03-20T08:03:11.645Z'
+datePublished: '2017-03-20T08:18:04.390Z'
+dateModified: '2017-03-20T08:18:03.864Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-03-20-virtualheap2.md
+starred: false
+datePublishedOriginal: '2017-03-20T08:03:11.645Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
